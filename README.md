@@ -10,7 +10,7 @@ This theme changes the background color of Visual Studio Code to a dark bluish t
 - [@Jmgamer1199](https://jmgamer1199.github.io/)
 
 
-![Logo](https://jmgamer1199.gallerycdn.vsassets.io/extensions/jmgamer1199/jm-theme/0.0.2/1683283460060/Microsoft.VisualStudio.Services.Icons.Default)
+![Logo](https://jmgamer1199.gallerycdn.vsassets.io/extensions/jmgamer1199/jm-theme/0.0.3/1683283460060/Microsoft.VisualStudio.Services.Icons.Default)
 
 
 ## License
