@@ -1,10 +1,22 @@
 {
 	"name": "JmTheme",
 	"colors": {
-		"editor.background": "#1d29307e",
+		"editor.background": "#1d2930fd",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"activityBarBadge.background": "#0099ff",
+		"sideBarTitle.foreground": "#bbbbbb",
+		"activityBar.background": "#1d2930fd",
+		"input.background": "#2e4350fd",
+		"scrollbarSlider.background": "#2e4350fd",
+		"sideBar.background": "#202c33fd",
+		"editorGroupHeader.tabsBackground": "#161f24fd",
+		"menu.background": "#27373ffd",
+		"toolbar.hoverBackground": "#344f5ffd",
+		"dropdown.background": "#171f25fd",
+		"editorGroupHeader.tabsBorder": "#283942fd",
+		"titleBar.activeBackground": "#26353dfd",
+		"tab.inactiveBackground": "#121b20fd",
+		"sideBarSectionHeader.background": "#31444efd"
 	},
 	"tokenColors": [
 		{
@@ -15,7 +27,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#ddbf1562"
+				"foreground": "#887610"
 			}
 		},
 		{
