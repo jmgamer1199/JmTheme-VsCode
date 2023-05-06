@@ -35,3 +35,5 @@
 - Changed the color of the borders and background of the matching brackets
 
 - Background color has been changed when dragging editors
+
+- Comments color has been changed
