@@ -37,3 +37,9 @@
 - Background color has been changed when dragging editors
 
 - Comments color has been changed
+
+## [0.0.6]
+
+### Fixed
+
+A spelling error in the CHANGELOG file has been fixed.
