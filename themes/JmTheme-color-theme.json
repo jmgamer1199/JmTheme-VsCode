@@ -3,7 +3,7 @@
 	"colors": {
 		"editor.background": "#1d2930fd",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#0099ff",
+		"activityBarBadge.background": "#00a5b1",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"activityBar.background": "#1d2930fd",
 		"input.background": "#2e4350fd",
@@ -16,8 +16,13 @@
 		"editorGroupHeader.tabsBorder": "#283942fd",
 		"titleBar.activeBackground": "#26353dfd",
 		"tab.inactiveBackground": "#121b20fd",
-		"sideBarSectionHeader.background": "#31444efd"
-	},
+		"sideBarSectionHeader.background": "#31444efd",
+		"welcomePage.background": "#1d2930fd",
+		"statusBar.background": "#365263fd",
+		"editorBracketMatch.border": "#00f7ff",
+		"editorBracketMatch.background": "#1d2930fd",
+		"editorGroup.dropBackground": "#2a46558c"
+	}, //patata
 	"tokenColors": [
 		{
 			"name": "Comment",
@@ -27,7 +32,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#887610"
+				"foreground": "#6e6e6e"
 			}
 		},
 		{
@@ -56,7 +61,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#ff5353"
 			}
 		},
 		{
