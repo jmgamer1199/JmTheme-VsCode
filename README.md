@@ -4,6 +4,13 @@ This theme is developed by JmGamer1199 as a hobby.
 
 This theme changes the background color of Visual Studio Code to a dark bluish tone.
 
+---
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/Jmgamer1199.jm-theme?color=blue&style=for-the-badge)
+
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/Jmgamer1199.jm-theme?color=blue&style=for-the-badge)
+
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/Jmgamer1199.jm-theme?color=blue&style=for-the-badge)
+---
 
 ## Authors
 
