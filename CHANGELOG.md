@@ -16,7 +16,7 @@
 
 ### Added
 
-- Added information to REALME.md
+- Added information to README.md
 
 ## [0.0.4]
 
@@ -42,4 +42,10 @@
 
 ### Fixed
 
-A spelling error in the CHANGELOG file has been fixed.
+- A spelling error in the CHANGELOG file has been fixed.
+
+## [0.0.7]
+
+### Added
+
+- Download, installation and version badges have been added.
