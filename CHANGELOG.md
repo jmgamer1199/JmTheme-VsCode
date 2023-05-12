@@ -58,6 +58,6 @@
 
 ## [0.0.9]
 
-### Changed
+### Fixed
 
 - Fixed a bug in the version badge, previously the download badge was duplicated.
