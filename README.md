@@ -13,7 +13,7 @@ This theme changes the background color of Visual Studio Code to a dark bluish t
         <img src="https://img.shields.io/visual-studio-marketplace/d/Jmgamer1199.jm-theme?color=blue&style=for-the-badge" alt="Downloads Badge">
     </a>
     <a href="https://marketplace.visualstudio.com/items?itemName=Jmgamer1199.jm-theme">
-        <img src="https://img.shields.io/visual-studio-marketplace/d/Jmgamer1199.jm-theme?color=blue&style=for-the-badge" alt="Version Badge">
+        <img src="https://img.shields.io/visual-studio-marketplace/v/Jmgamer1199.jm-theme?color=blue&style=for-the-badge" alt="Version Badge">
     </a>
 </div>
  <!-- ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/Jmgamer1199.jm-theme?color=blue&style=for-the-badge) -->
