@@ -49,3 +49,9 @@
 ### Added
 
 - Download, installation and version badges have been added.
+
+## [0.0.9]
+
+### Changed
+
+- Fixed a bug in the version badge, previously the download badge was duplicated.
