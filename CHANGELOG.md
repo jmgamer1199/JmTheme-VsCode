@@ -50,6 +50,12 @@
 
 - Download, installation and version badges have been added.
 
+## [0.0.8]
+
+### Changed
+
+- The badges in the README have been rearranged.
+
 ## [0.0.9]
 
 ### Changed
